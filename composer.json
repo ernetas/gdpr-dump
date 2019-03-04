@@ -4,12 +4,12 @@
   "repositories": [
       {
           "type": "git",
-          "url": "https://github.com/ernetas/mysqldump-php"
+          "url": "https://github.com/ernetas/mysqldump-php.git"
       }
   ],
   "require": {
     "symfony/console": "^3.0",
-    "ernetas/mysqldump-php": "dev-master",
+    "ernetas/mysqldump-php": "master",
     "cweagans/composer-patches": "^1.6",
     "bomoko/mysql-cnf-parser": "^0.0.2",
     "fzaninotto/faker": "^1.7",
